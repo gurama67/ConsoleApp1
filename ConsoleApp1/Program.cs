@@ -21,7 +21,7 @@
 
             //davaleba2
 
-            Console.Write("შეიყვანეთ პირველი რიცხვ: ");
+            Console.Write("შეიყვანეთ პირველი რიცხვi: ");
             int num1;
             int.TryParse(Console.ReadLine(), out num1);
 
